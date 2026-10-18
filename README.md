@@ -1,1 +1,1 @@
-# CSCE-190-Crystal Nguyen
+# CSCE-190-Assignments
