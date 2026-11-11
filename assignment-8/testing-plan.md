@@ -14,6 +14,8 @@ This testing plan checks whether the Student Homework Checklist works correctly.
 | T3 | Mark a task complete | Task status changes to completed |
 | T4 | Delete a task | Task disappears from the list |
 | T5 | Submit an empty task | Task is rejected |
+| T8 | Submit a task with only spaces | Counts as an empty task and is rejected |
+| T9 | Add two tasks, then delete one | The other task is unchanged |
 
 ## 3. Non-Functional Testing
 
