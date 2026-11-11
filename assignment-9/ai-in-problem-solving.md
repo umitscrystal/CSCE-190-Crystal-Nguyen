@@ -88,3 +88,19 @@ The simplest approach is to build the basic checklist first and then add input v
 **Non-functional requirements** cover mobile usability and keyboard accessibility.
 
 The website should only be considered ready after the requirements have been checked and the necessary tests have passed.
+
+### Prompt Iteration
+
+We started by asking ChatGPT for a simple solution to help students keep track of homework. After that, we asked about possible problems students might face when using the website. We then asked for test cases and ways to improve our approach. Each prompt helped us focus on a different part of the problem.
+
+### Verification
+
+ChatGPT's proposed solution matches our seven specifications. It includes adding, viewing, completing, and deleting tasks. It also addresses empty inputs, mobile screens, and keyboard accessibility. However, we would still need to build and test the website to make sure everything works correctly.
+
+### Validation
+
+We think the proposed solution could help students organize their assignments because it gives them a way to see what they still need to finish. The features address our original problem, but we would need students to try the website to determine whether it actually helps them.
+
+### Revised Strategy
+
+After reviewing ChatGPT's responses, we would keep the original idea but pay more attention to testing. We would build the basic features first, then check for problems such as empty inputs and accidentally deleting the wrong task. We would also test the website on a phone and with a keyboard before considering it finished.
